@@ -1,39 +1,72 @@
-# Mariusz Mańka
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img src="./assets/hero-light.svg" width="100%" alt="Mariusz Mańka — Frontend Developer. React, TypeScript, Next.js.">
+  </picture>
+</div>
 
-**Frontend Developer · React · TypeScript · Next.js**
+<p align="center">
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="https://github.com/MariuszManka?tab=repositories">All repositories</a>
+</p>
 
-I build web interfaces and applications with a focus on usability, clear code, and practical solutions. My experience includes commercial websites, interactive frontends, and projects that combine UI development with API integrations.
+## About
 
-## What I work with
+I'm a **frontend developer based in Poland**, building web interfaces and applications with **React and TypeScript**. I enjoy the point where design, code, and product needs come together: making interfaces feel polished while keeping the implementation understandable and maintainable.
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, SCSS
-- **UI & styling:** Material UI, Styled Components, responsive layouts
-- **Application development:** Redux Toolkit, React Router, REST APIs, forms and state management
-- **Tools:** Git, GitHub, npm
+I've worked on commercial websites, interactive web applications, and integrations with APIs and content management systems.
 
-## Selected projects
+## Tech stack
 
-### [Halka Lubliniec](https://github.com/MariuszManka/halka-lubliniec)
-A website for the **Halka folk song and dance ensemble**, featuring events, a digital chronicle, and photo galleries. Built with React, TypeScript, and Next.js/Vinext.
+| | Technologies |
+| :--- | :--- |
+| **Frontend** | `React` · `Next.js` · `TypeScript` · `JavaScript` |
+| **UI & styling** | `HTML` · `CSS` · `SCSS` · `Material UI` · `Styled Components` |
+| **App development** | `Redux Toolkit` · `React Router` · `REST APIs` |
+| **Workflow** | `Git` · `GitHub` · `npm` |
 
-**[Live website](https://halkalubliniec.pl) · [Source code](https://github.com/MariuszManka/halka-lubliniec)**
+## Selected work
 
-### [Crello — Kanban board](https://github.com/MariuszManka/crello)
-A Trello-inspired application exploring drag-and-drop interactions, list and card management, and predictable client-side state.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/MariuszManka/halka-lubliniec">
+        <img src="./assets/project-halka.svg" width="100%" alt="Halka — production website project cover">
+      </a>
+      <h3><a href="https://github.com/MariuszManka/halka-lubliniec">Halka Lubliniec</a></h3>
+      <p>A real-world website for a folk ensemble, with an event calendar, digital chronicle, and photo galleries.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Next.js</code></p>
+      <p><a href="https://halkalubliniec.pl">Live website</a> · <a href="https://github.com/MariuszManka/halka-lubliniec">Code</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/MariuszManka/crello">
+        <img src="./assets/project-crello.svg" width="100%" alt="Crello — Kanban application project cover">
+      </a>
+      <h3><a href="https://github.com/MariuszManka/crello">Crello</a></h3>
+      <p>A Trello-inspired board exploring drag-and-drop interactions, lists, cards, and client-side state.</p>
+      <p><code>React</code> <code>Redux</code> <code>Styled Components</code></p>
+      <p><a href="https://github.com/MariuszManka/crello">Explore the code</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/MariuszManka/decoroom-kinga-wojsa-website">
+        <img src="./assets/project-decoroom.svg" width="100%" alt="Decoroom — interior design portfolio project cover">
+      </a>
+      <h3><a href="https://github.com/MariuszManka/decoroom-kinga-wojsa-website">Decoroom</a></h3>
+      <p>A portfolio site for an interior design studio, featuring project galleries and CMS integration.</p>
+      <p><code>Gatsby</code> <code>React</code> <code>DatoCMS</code></p>
+      <p><a href="https://github.com/MariuszManka/decoroom-kinga-wojsa-website">Explore the code</a></p>
+    </td>
+  </tr>
+</table>
 
-**React · Redux · Styled Components · react-beautiful-dnd**
+## What I value
 
-### [Decoroom — Interior design portfolio](https://github.com/MariuszManka/decoroom-kinga-wojsa-website)
-A commercial portfolio website for an interior design studio, with project presentation and content management integration.
-
-**Gatsby · React · Material UI · DatoCMS**
-
-## How I approach development
-
-I enjoy turning requirements into interfaces that feel intuitive to use. I value readable components, thoughtful UI details, and choosing solutions that fit the actual project rather than adding complexity for its own sake.
+**Thoughtful interfaces. Clear components. Practical decisions.** I care about responsive layouts, user experience, and writing code that remains approachable as a project evolves.
 
 ---
 
-*Based in Poland · Open to frontend development opportunities*
-
-[Explore my repositories](https://github.com/MariuszManka?tab=repositories)
+<p align="center">
+  <sub>Based in Poland · Open to frontend development opportunities</sub>
+</p>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-label="DECOROOM project illustration">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#EEE9DD"/><stop offset="1" stop-color="#D9CEB8"/></linearGradient><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#B98B65" opacity=".15"/></pattern></defs>
+ <rect width="600" height="330" rx="14" fill="url(#bg)"/><rect width="600" height="330" rx="14" fill="url(#dots)"/>
+ <path d="M0 328H600" stroke="#62493B" opacity=".55" stroke-width="4"/>
+ <text x="40" y="57" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3" font-weight="700" fill="#62493B" opacity=".85">DESIGN PORTFOLIO</text>
+ <text x="38" y="174" font-family="Arial, Helvetica, sans-serif" font-size="45" letter-spacing="-1.5" font-weight="800" fill="#4C4035">DECOROOM</text>
+ <rect x="41" y="200" width="80" height="5" rx="2.5" fill="#B98B65"/>
+ <text x="42" y="279" font-family="Consolas, monospace" font-size="16" fill="#67594C" opacity=".9">mariuszmanka / selected work</text>
+ 
+ <g transform="translate(340 28)">
+ <rect x="15" y="10" width="212" height="244" rx="4" fill="#C6B59D" opacity=".6"/>
+ <rect x="0" y="0" width="212" height="244" rx="4" fill="#F7F4EC" stroke="#AA987F" stroke-width="2"/>
+ <rect x="19" y="19" width="174" height="111" fill="#DFD5C4"/>
+ <path d="M19 130V19H193V130" stroke="#C1B49E" stroke-width="2" fill="none"/>
+ <path d="M46 130V60Q106 -2 167 60V130" fill="#E8DECF" stroke="#AE9C87" stroke-width="4"/>
+ <rect x="30" y="142" width="153" height="58" rx="7" fill="#9E8774"/>
+ <rect x="42" y="151" width="124" height="49" rx="6" fill="#C8B19C"/>
+ <rect x="26" y="214" width="62" height="8" rx="4" fill="#A49179"/><rect x="101" y="214" width="82" height="8" rx="4" fill="#A49179"/>
+ </g>
+ </svg>
